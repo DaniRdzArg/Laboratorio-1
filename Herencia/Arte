@@ -1,0 +1,18 @@
+using System;
+
+class Arte
+
+{
+
+	public void Pintar()
+
+		{
+		Console.WriteLine(?Las pinturas es hermosas.?);
+		}
+
+	public void Bailar()
+
+		{
+		Console.WriteLine(?Las personas aman bailar.?);
+		}
+}

@@ -1,0 +1,8 @@
+class Persona
+{
+
+	public virtual void Genero()
+	{
+		Console.WriteLine("El genero de la persona es...");
+	}
+}

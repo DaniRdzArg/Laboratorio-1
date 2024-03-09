@@ -1,0 +1,13 @@
+class Humanidad
+{
+
+	static void Main(string[] args)
+
+	{
+		Persona Persona1 = new Persona();
+        Persona Persona2 = new Estudiante();
+
+		//llamo al metodo Genero de las instancias
+		Persona1.Genero();
+		Persona2.Genero();
+	}

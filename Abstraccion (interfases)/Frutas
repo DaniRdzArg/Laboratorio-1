@@ -1,0 +1,11 @@
+﻿public class Frutas : Comida
+{
+
+	public void Alimentar()
+
+	{
+
+	Console.WriteLine(�Muchas frutas son altas en fibra�);
+
+	}
+}

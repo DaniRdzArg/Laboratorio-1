@@ -1,0 +1,17 @@
+
+class Programa
+
+{
+
+	Static void Main(string[] args)
+	{
+
+		Colores Color = newColor();
+
+		Color.Pintar();
+		Color.Bailar();
+
+		Color.Dibujar();
+
+	}
+}

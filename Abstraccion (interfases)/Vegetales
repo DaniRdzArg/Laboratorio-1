@@ -1,0 +1,12 @@
+public class Vegetales : Comida
+
+{
+
+public void Alimentar();
+
+	{
+
+	Console.WriteLine(?Los vegetales son necesarios?);
+
+	}
+{

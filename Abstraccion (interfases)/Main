@@ -1,0 +1,17 @@
+Class Program
+
+{
+
+	Static void Main(string[] args)
+
+	{
+
+	Comida Vegetales = new vegetal();
+
+Vegetales.Alimentar();
+
+Comida Frutas = new Fruta();
+Frutas.Alimentar();
+
+	}
+}

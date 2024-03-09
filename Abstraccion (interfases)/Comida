@@ -1,0 +1,9 @@
+using system;
+
+public interface Comida
+
+{
+
+	void Alimetar( );
+
+}

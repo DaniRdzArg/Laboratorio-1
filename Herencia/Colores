@@ -1,0 +1,11 @@
+﻿class Colores : Arte
+
+{
+
+	Public void Dibujar()
+
+	{
+		Console.WriteLine(�El arte es vida��);
+	}
+
+}

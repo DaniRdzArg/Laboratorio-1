@@ -1,0 +1,9 @@
+class Estudiante : Persona
+{
+
+	public override void Genero()
+
+		{
+		Console.WriteLine("Existen diferentes generos");
+		}
+}
